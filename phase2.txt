@@ -1,0 +1,7 @@
+find out what people like and dislike about video games, 
+you need to know which reviews contain a positive evaluation of the product and which contain a negative. 
+As reviews are made up of sentences, which are made up of words, first you need to decide if each word is positive or negative,
+and then count the sentiment score of the sentences.Customers can also express their opinion about the product by rating. 
+It serves as a good reference point to check your dictionary-based sentiment analyzer.
+The comparison of the rating and the sentiment scores sheds light on issues that must be handled, such as the necessity to handle negation.
+Later, we will work on the sentiment scores and turn them into sentiment values.
